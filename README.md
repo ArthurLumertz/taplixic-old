@@ -1,6 +1,6 @@
 # Taplixic - Explore, Create, Survive! 🌍🔨
 
-![Taplixic Logo](game-logo.png)
+![Taplixic Logo](logo.png)
 
 **Overview:**
 Dive into the vibrant world of Taplixic, a 2D topdown sandbox game currently in production. Unleash your creativity, navigate dynamic landscapes, and survive the challenges of a pixelated universe.
@@ -18,4 +18,4 @@ Dive into the vibrant world of Taplixic, a 2D topdown sandbox game currently in 
 
 **🚀 Get ready for an unforgettable journey in Taplixic!**
 
-![Taplixic Screenshot](game-screenshot.png)
+![Taplixic Screenshot](screenshot.png)
