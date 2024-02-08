@@ -2,7 +2,7 @@
 
 ![Taplixic Logo](logo.png)
 
-**Overview:**
+**Overview:**<br />
 Dive into the vibrant world of Taplixic, a 2D topdown sandbox game currently in production. Unleash your creativity, navigate dynamic landscapes, and survive the challenges of a pixelated universe.
 
 **Features:**
