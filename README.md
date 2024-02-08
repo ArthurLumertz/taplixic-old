@@ -1,6 +1,6 @@
-TAPLIXIC
-2D topdown sandbox game currently in production.
+<h1>Taplixic</h1>
+<p>2D topdown sandbox game currently in production.</p>
 
-The new 0.010 update brings random world generation!
+<p>The new 0.010 update brings random world generation!</p>
 
-The next update is scheduled to bring mining and entities!
+<p>The next update is scheduled to bring mining and entities!</p>
