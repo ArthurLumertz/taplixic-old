@@ -38,7 +38,7 @@ public class Taplixic implements Runnable {
 
 		this.renderer = new Renderer();
 
-		this.spritesheet = new Spritesheet("./src/spritesheet.png");
+		this.spritesheet = new Spritesheet("/spritesheet.png");
 		
 		this.items = new Items(this);
 		
