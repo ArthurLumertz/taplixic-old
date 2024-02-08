@@ -1,0 +1,4 @@
+-added arm and x86 support for windows
+-added macos support x64 and arm64
+-optimization update
+-fixed some thread code
