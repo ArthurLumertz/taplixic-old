@@ -16,7 +16,7 @@ Dive into the vibrant world of Taplixic, a 2D topdown sandbox game currently in 
 - **Survival Enthusiasts:** Strategize, gather, and thrive!
 - **Casual Gamers:** Relax and enjoy a laid-back gaming experience.
 
-**Development Status:**
+**Development Status:**<br />
 Taplixic is currently in active development, and exciting updates are on the horizon. As of now, the game features:
 - Random World Generation
 - Collision Mechanics
