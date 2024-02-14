@@ -1,0 +1,25 @@
+FROM THE DEVELOPER:
+
+HOW CAN I RUN THE GAME?
+
+The game required JavaSE 1.8 or above to be runned. When java is already
+installed in the system, simply open the .jar file, or right click the
+Taplixic_0.011.jar and click open.
+
+
+WHY IS IT ALWAYS DARK?
+
+The new version (v0.011) came with the purpose of introducing lighting
+and new features for the upcoming versions which will include a day/night
+cycle. Without having to wait weeks for a full build without the test versions,
+it's better for the user experience to experience the development process of the game.
+
+
+WHY DOES THIS LEVEL.DAT FILE COME WITH THE GAME?
+
+The level.dat file is included since the world generation can be buggy,
+and the level.dat that comes with the game just provides a seed where
+no bugs were encountered. Keep in mind this is just for this version
+and other versions will not have this pre-installed level.dat file.
+
+Hope you enjoy Taplixic (v0.011)!

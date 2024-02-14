@@ -1,0 +1,16 @@
+v0.011 UPDATE:
+
+- complete game rewrite (wasn't happy on how it worked before)
+- decreased world file size by 40 to 50 percent
+- switched save file type (bytes -> json)
+- switched frameworks (lwjgl -> libgdx)
+- better performance
+- HUGE optimization update
+- lighting is introduced
+- added support for linux
+- added custom cursor to the game
+- changed the game's icon to a grass block
+- added camera lerp effect when following player
+- switched texture size (32 -> 16)
+- added full-screen support
+- resizable window
