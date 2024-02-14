@@ -20,6 +20,8 @@ Dive into the vibrant world of Taplixic, a 2D topdown sandbox game currently in 
 Taplixic is currently in active development, and exciting updates are on the horizon. As of now, the game features:
 - Random World Generation
 - Collision Mechanics
+- Advanced lighting
+  
 
 **🚀 Get ready for an unforgettable journey in Taplixic!**
 
