@@ -1,16 +1,23 @@
-v0.011 UPDATE:
+v0.012 UPDATE:
 
-- complete game rewrite (wasn't happy on how it worked before)
-- decreased world file size by 40 to 50 percent
-- switched save file type (bytes -> json)
-- switched frameworks (lwjgl -> libgdx)
-- better performance
-- HUGE optimization update
-- lighting is introduced
-- added support for linux
-- added custom cursor to the game
-- changed the game's icon to a grass block
-- added camera lerp effect when following player
-- switched texture size (32 -> 16)
-- added full-screen support
-- resizable window
+- breaking tiles
+- day/night cycle
+- particles
+- changed window icon (grass -> dirt)
+- added interface
+- added audio
+- tweaked terrain generation
+- added new tiles
+- added a title screen
+- camera zoom (= & -) & reset (0)
+- water player textures
+- title screen shows world size
+
+BUGS:
+- block health shared between blocks
+
+TODO:
+- display item name in inventory
+- add ambient (frogs, butterflies, cow, sheep and pigs)
+- add random when attacking
+- make block/item textures seperate
