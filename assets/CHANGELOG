@@ -1,0 +1,14 @@
+v0.013 UPDATE:
+
+-
+
+BUGS:
+- block health shared between blocks
+
+TODO:
+- add ambient (frogs, cow, sheep and pigs)
+- add random when attacking
+- add options menu
+- add inventory full indicator
+- create stone breaking sound effect (tongue flap)
+- ADD DIFFERENT BUSH TEXTURE
