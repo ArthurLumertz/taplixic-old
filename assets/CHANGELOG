@@ -1,0 +1,17 @@
+v0.014 UPDATE:
+
+BUGS:
+- inventory dissapears on fullscreen
+- item replicates itself when placed?
+- water speed
+
+TODO:
+- add inventory full indicator
+- add not enough resources sound effect when crafting
+- FIX INVENTORY select glitch
+- make two block tall trees
+- add character status page (i)
+- make torch fade in when placed
+- make placeable items breakable
+- add placeable blocks
+- tool durability
