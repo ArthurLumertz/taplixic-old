@@ -30,5 +30,5 @@
 
 🚀 **Get ready for an unforgettable journey in Taplixic!**
 
-## GitHub Repository:
-- [Taplixic Itch.io](https://arthur-lumertz.itch.io/taplixic)
+## Itch Page:
+- [Taplixic Itch](https://arthur-lumertz.itch.io/taplixic)
